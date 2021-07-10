@@ -1,9 +1,7 @@
-import pyautogui
 import subprocess
 import cv2
 import requests
 import yaml
-import keyboard
 import fake_useragent
 import numpy as np
 from time import sleep, time
