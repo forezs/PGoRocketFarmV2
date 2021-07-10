@@ -1,0 +1,38 @@
+7pwozpzpaqqkjr9d: #first device id
+    locations:
+        open_pokestop: [540, 1170]                       #Pokestop open location
+        open_pokestop_area: [445, 630, 140, 180]          #R icon area (x, y, w, h)
+
+        close_pokestop: [550, 2140]                      #Pokestop close location
+        pokestop_more_button_area: [910, 230, 100, 100]    #Right up corner button in opened pokestop (x, y, w, h)
+
+        backpack_icon: [300, 285]
+        close_backpack_icon: [540, 2130]                 #Button that closes backpack location
+        use_this_party_area: [370, 2035, 340, 70]         #Area of use this party text (x, y, w, h)
+
+        exit_pokemon: [100, 230]                         #Exit pokemon button location
+        berry_encounter_area: [94, 2027, 80, 100]         #Berry Area in pokemon encounter
+
+    reopen_locations:
+        start_service_button: [530, 450]                 #Start Service Button in HAL location
+        close_all_trashnews: [5, 100]                    #left up corner location
+
+7YYDU17A21002523: #second device id
+    locations:
+        open_pokestop: [1, 1]                       #Pokestop open location
+        open_pokestop_area: [1, 1, 100, 100]         #R icon area (x, y, w, h)
+
+        close_pokestop: [4, 4]                      #Pokestop close location
+        pokestop_more_button_area: [1, 1, 100, 100]  #Right up corner button in opened pokestop (x, y, w, h)
+
+        backpack_icon: [1, 1]
+        close_backpack_icon: [1, 1]                 #Button that closes backpack location
+        use_this_party_area: [1, 1, 100, 100]        #Area of use this party text (x, y, w, h)
+
+        exit_pokemon: [1, 1]                         #Exit pokemon button location
+        berry_encounter_area: [4, 4, 100, 100]       #Berry Area in pokemon encounter
+
+    reopen_locations:
+        hal_icon: [1, 1]                             #HAL location in Menu
+        start_service_button: [1, 1]                 #Start Service Button in HAL location
+        close_all_trashnews: [1, 1]                  #left up corner location

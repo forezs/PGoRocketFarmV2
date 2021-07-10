@@ -1,0 +1,8 @@
+opencv-python
+pyautogui
+mss
+numpy
+requests
+fake_useragent
+pyyaml
+keyboard
