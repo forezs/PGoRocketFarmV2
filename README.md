@@ -8,7 +8,7 @@ ______
 - Edit config.yaml with your data (U can do it faster by enabling pointer position in dev's optinios)
 - Put ur serial phone number in config.yaml
 - Create dir named ur serial phone number
-- Put templates (examples in UrSerialPhoneNumber dir in repo) in created dir
+- Put templates (examples in UrSerialPhoneNum dir in repo) in created dir
 - Launch rocket.py
 _______
 ## Features
